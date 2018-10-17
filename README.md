@@ -1,3 +1,4 @@
 # hello-world
-new
-hello My name is Wendy!
+
+My name is Wendy!
+~~~
